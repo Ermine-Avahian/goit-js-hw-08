@@ -11,6 +11,7 @@ body {
   flex-wrap: wrap;
   gap: 24px;
   padding: 24px 156px;
+  width: 1328px;
 }
 
 .gallery-item {
